@@ -1,0 +1,5 @@
+C:\Users\gfsan\OneDrive\Área de Trabalho\Curso DIO\dotnet\Restaurantes\obj\Debug\net5.0\Restaurantes.csprojAssemblyReference.cache
+C:\Users\gfsan\OneDrive\Área de Trabalho\Curso DIO\dotnet\Restaurantes\obj\Debug\net5.0\Restaurantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gfsan\OneDrive\Área de Trabalho\Curso DIO\dotnet\Restaurantes\obj\Debug\net5.0\Restaurantes.AssemblyInfoInputs.cache
+C:\Users\gfsan\OneDrive\Área de Trabalho\Curso DIO\dotnet\Restaurantes\obj\Debug\net5.0\Restaurantes.AssemblyInfo.cs
+C:\Users\gfsan\OneDrive\Área de Trabalho\Curso DIO\dotnet\Restaurantes\obj\Debug\net5.0\Restaurantes.csproj.CoreCompileInputs.cache
